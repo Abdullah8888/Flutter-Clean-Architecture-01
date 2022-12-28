@@ -1,5 +1,5 @@
 # Flutter-Clean-Architecture-01
-This application displays list of smart phones and was also built with clean architecture concept.
+This application was built with clean architecture concept to displays list of smart phones.
 
 ## Presentation Layer
 - Cubit state management pattern.
